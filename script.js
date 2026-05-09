@@ -39,6 +39,13 @@ const projects = [
         link: "#",
         tags: ["HTML", "CSS", "JavaScript"],
     },
+    {
+        title: "Personal Portfolio",
+        description:
+            "This very page — built from scratch using semantic HTML, CSS Grid + custom properties, and vanilla JavaScript. My first lab in the cohort.",
+        link: "#",
+        tags: ["HTML", "CSS", "JavaScript"],
+    },
     // {
     //     title: "Next Project",
     //     description: "Coming soon — I'll add the next thing I build right here.",
